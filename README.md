@@ -1,5 +1,5 @@
 Para executar o exemplo de blueprint:
-1. Git clone : repositório
+1. Git clone : [repositório](https://github.com/johnevertonoliver-png/Blueprints-e-security.git)
 2. cd repositório 
 3. criar e ativar uma venv
 4. criar uma .env a partir da .env.example, e colocar uma senha local (arquivos que o .gitignore ignorou)
